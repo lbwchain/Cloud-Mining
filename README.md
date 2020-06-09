@@ -29,15 +29,17 @@ miningrigrentals.com是一家国外的云算力租赁商
 系统会自动帮你计算好想要支付的金额，点击“Rent Now!”跳转到下一页面  
 ![Image](https://github.com/lbwchain/Cloud-Mining/blob/master/8.png)
 点击INSTANT PAY NOW!  
-[Image](https://github.com/lbwchain/Cloud-Mining/blob/master/9.png)
+
+![Image](https://github.com/lbwchain/Cloud-Mining/blob/master/9.png)
 
 系统会弹出界面让你输入矿池参数  
 这里我们在stratum+tcp://输入框内输入51.79.158.92:3032  
 账户，输入你的钱包接收地址  
 密码，通常输入d=100000  
 输入完毕后，点击提交即可  
-[Image](https://github.com/lbwchain/Cloud-Mining/blob/master/11.png)  
-[Image](https://github.com/lbwchain/Cloud-Mining/blob/master/12.png)  
+[Image](https://github.com/lbwchain/Cloud-Mining/blob/master/11.png)
+
+[Image](https://github.com/lbwchain/Cloud-Mining/blob/master/12.png)
 等待30秒后，查看矿池矿工界面http://pool.lbwchain.xyz/workers  
 在Address栏下面是否有你的地址在运行  
 [Image](https://github.com/lbwchain/Cloud-Mining/blob/master/13.png)  
