@@ -45,4 +45,4 @@ miningrigrentals.com是一家国外的云算力租赁商
   
     
 钱包地址  
-![Image](https://github.com/lbwchain/Cloud-Mining/blob/master/13.png)  
+![Image](https://github.com/lbwchain/Cloud-Mining/blob/master/10.png)  
