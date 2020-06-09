@@ -1,4 +1,12 @@
 # Cloud-Mining
+LBWCOIN项目官网：www.lbw.one  
+LBWCOIN白皮书：https://github.com/lbwchain/White-Paper/blob/master/LBW_english.pdf  
+LBWCOIN区块浏览器：http://explorer.lbw.one  
+LBWCOIN第三方矿池：http://pool.lbwchain.xyz  
+LBWCOIN云挖矿教程：https://github.com/lbwchain/Cloud-Mining/blob/master/README.md  
+LBWCOIN电脑挖矿教程：https://github.com/lbwchain/miner/blob/master/README.md  
+  
+  
 租云算力挖矿LBWCOIN  
 由于LBW采用了和比特币相同的SHA256算法，所以我们可以租云算力来挖掘LBW，按照当前价格计算，还是比较划算  
 miningrigrentals.com是一家国外的云算力租赁商  
