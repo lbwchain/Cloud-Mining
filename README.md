@@ -42,14 +42,15 @@ miningrigrentals.com是一家国外的云算力租赁商
 系统会弹出界面让你输入矿池参数  
 这里我们在stratum+tcp://输入框内输入51.79.158.92:3032  
 账户，输入你的钱包接收地址  
-密码，通常输入d=100000  
+密码，通常输入d=50000   
 输入完毕后，点击提交即可  
 ![Image](https://github.com/lbwchain/Cloud-Mining/blob/master/11.png)  
 ![Image](https://github.com/lbwchain/Cloud-Mining/blob/master/12.png)  
 等待30秒后，查看矿池矿工界面http://pool.lbwchain.xyz/workers  
 在Address栏下面是否有你的地址在运行  
 ![Image](https://github.com/lbwchain/Cloud-Mining/blob/master/13.png)  
-大约在30-60分钟后，应该就能收到矿池支付的LBW  
+如果你看到提交的Shares异常，请尝试调整d=50000，尝试加大数值
+大约在1-3小时后，应该就能收到矿池支付的LBW  
   
     
 钱包地址  
