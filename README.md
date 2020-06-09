@@ -5,6 +5,7 @@ miningrigrentals.com是一家国外的云算力租赁商
   
 1，我们可以很轻松的在这里租到自己的算力，只需要支付少量费用  
 注册地址：https://www.miningrigrentals.com/register  
+![Image](https://github.com/lbwchain/Cloud-Mining/blob/master/1.png)
   
 2，注册成功先登录  
 首先点击我的账户中心https://www.miningrigrentals.com/account/balance
